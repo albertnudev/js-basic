@@ -1,0 +1,5 @@
+
+
+var miNombre;
+miNombre = "Albert";
+
